@@ -8,11 +8,11 @@ Your updated site should have the following content:
 
 - [x] Your name
 
-- [ ] Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+- [x] Links to your GitHub profile & LinkedIn page as well as your email address and phone number
 
-- [ ] A link to a PDF of your resume
+- [ ] A link to a PDF of your resume (not sure how to link this)
 
-- [ ] List of projects. For each project make sure you have the following:
+- [x] List of projects. For each project make sure you have the following:
 
   - Project title
 
@@ -22,7 +22,7 @@ Your updated site should have the following content:
 
 #### Competitive Content
 
-- [ ] At least 3 deployed projects
+- [x] At least 3 deployed projects
 
 - [ ] External content:
 
